@@ -1,6 +1,6 @@
 Name:		texlive-metatype1
 Version:	37105
-Release:	1
+Release:	2
 Summary:	Generate Type 1 fonts from MetaPost
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/metatype1
