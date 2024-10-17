@@ -3,7 +3,7 @@ Version:	37105
 Release:	2
 Summary:	Generate Type 1 fonts from MetaPost
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/metatype1
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/metatype1
 License:	pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/metatype1.r%{version}.tar.xz
 Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/metatype1.source.r%{version}.tar.xz
